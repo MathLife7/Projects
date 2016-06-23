@@ -1,0 +1,12 @@
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.Almoxarifado.resources
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\bin\Release\Almoxarifado.exe
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\bin\Release\Almoxarifado.pdb
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\Almoxarifado.exe
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\Almoxarifado.pdb
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.Add.resources
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.Check.resources
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.History.resources
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.Remove.resources
+C:\Users\alunoct\Documents\Visual Studio 2010\Projects\Almoxarifado\Almoxarifado\obj\x86\Release\WindowsFormsApplication1.Sair.resources
