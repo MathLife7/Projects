@@ -219,11 +219,7 @@ namespace WindowsFormsApplication1
 
             UpdateResults();
         }
-
-        private void History_Load(object sender, EventArgs e)
-        {
-
-        }
+               
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {

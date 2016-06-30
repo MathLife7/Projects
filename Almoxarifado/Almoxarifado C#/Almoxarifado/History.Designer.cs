@@ -196,7 +196,6 @@
             this.Name = "History";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Histórico";
-            this.Load += new System.EventHandler(this.History_Load);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox1.ResumeLayout(false);

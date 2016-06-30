@@ -10,5 +10,12 @@ namespace WindowsFormsApplication1
         public int ID { get; set; }
         public string Name { get; set; }
         public int Quantity { get; set; }
+        public string NameCapitalized
+        {
+            get
+            {
+                return Name.ToTitleCase();
+            }
+        }
     }
 }

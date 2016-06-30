@@ -35,11 +35,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.nUD_RmvQtd = new System.Windows.Forms.NumericUpDown();
-            this.txt_Setor = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.cB_RtProduto = new System.Windows.Forms.ComboBox();
             this.EmployeesComboBox = new System.Windows.Forms.ComboBox();
             this.btn_AddEmp = new System.Windows.Forms.Button();
+            this.SectorCombobox = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.nUD_RmvQtd)).BeginInit();
             this.SuspendLayout();
             // 
@@ -71,7 +71,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Location = new System.Drawing.Point(8, 117);
+            this.label4.Location = new System.Drawing.Point(8, 144);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(77, 13);
             this.label4.TabIndex = 14;
@@ -124,21 +124,13 @@
             0,
             0});
             // 
-            // txt_Setor
-            // 
-            this.txt_Setor.Location = new System.Drawing.Point(91, 136);
-            this.txt_Setor.Name = "txt_Setor";
-            this.txt_Setor.ReadOnly = true;
-            this.txt_Setor.Size = new System.Drawing.Size(181, 20);
-            this.txt_Setor.TabIndex = 17;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label5.Location = new System.Drawing.Point(8, 143);
+            this.label5.Location = new System.Drawing.Point(8, 117);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(41, 13);
             this.label5.TabIndex = 16;
@@ -156,23 +148,35 @@
             // 
             // EmployeesComboBox
             // 
+            this.EmployeesComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.EmployeesComboBox.FormattingEnabled = true;
             this.EmployeesComboBox.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.EmployeesComboBox.Location = new System.Drawing.Point(91, 109);
+            this.EmployeesComboBox.Location = new System.Drawing.Point(91, 136);
             this.EmployeesComboBox.Name = "EmployeesComboBox";
-            this.EmployeesComboBox.Size = new System.Drawing.Size(151, 21);
+            this.EmployeesComboBox.Size = new System.Drawing.Size(181, 21);
             this.EmployeesComboBox.TabIndex = 19;
             this.EmployeesComboBox.SelectedIndexChanged += new System.EventHandler(this.EmployeesComboBox_SelectedIndexChanged);
             // 
             // btn_AddEmp
             // 
-            this.btn_AddEmp.Location = new System.Drawing.Point(246, 109);
+            this.btn_AddEmp.Location = new System.Drawing.Point(248, 108);
             this.btn_AddEmp.Name = "btn_AddEmp";
-            this.btn_AddEmp.Size = new System.Drawing.Size(26, 21);
+            this.btn_AddEmp.Size = new System.Drawing.Size(24, 21);
             this.btn_AddEmp.TabIndex = 20;
             this.btn_AddEmp.Text = "+";
             this.btn_AddEmp.UseVisualStyleBackColor = true;
             this.btn_AddEmp.Click += new System.EventHandler(this.btn_AddEmp_Click);
+            // 
+            // SectorCombobox
+            // 
+            this.SectorCombobox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.SectorCombobox.FormattingEnabled = true;
+            this.SectorCombobox.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.SectorCombobox.Location = new System.Drawing.Point(91, 109);
+            this.SectorCombobox.Name = "SectorCombobox";
+            this.SectorCombobox.Size = new System.Drawing.Size(151, 21);
+            this.SectorCombobox.TabIndex = 21;
+            this.SectorCombobox.SelectedIndexChanged += new System.EventHandler(this.SectorCombobox_SelectedIndexChanged_1);
             // 
             // Remove
             // 
@@ -181,10 +185,10 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(284, 215);
+            this.Controls.Add(this.SectorCombobox);
             this.Controls.Add(this.btn_AddEmp);
             this.Controls.Add(this.EmployeesComboBox);
             this.Controls.Add(this.cB_RtProduto);
-            this.Controls.Add(this.txt_Setor);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -216,10 +220,10 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.NumericUpDown nUD_RmvQtd;
-        private System.Windows.Forms.TextBox txt_Setor;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox cB_RtProduto;
         private System.Windows.Forms.ComboBox EmployeesComboBox;
         private System.Windows.Forms.Button btn_AddEmp;
+        private System.Windows.Forms.ComboBox SectorCombobox;
     }
 }

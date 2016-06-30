@@ -12,3 +12,17 @@ C:\Users\alunoct\Desktop\lalala\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Windo
 C:\Users\alunoct\Desktop\lalala\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Almoxarifado.csproj.GenerateResource.Cache
 C:\Users\alunoct\Desktop\lalala\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Almoxarifado.exe
 C:\Users\alunoct\Desktop\lalala\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Almoxarifado.pdb
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\bin\Debug\Almoxarifado.exe.config
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Almoxarifado.exe
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Almoxarifado.pdb
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\bin\Debug\Almoxarifado.exe
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\bin\Debug\Almoxarifado.pdb
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Add.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Almoxarifado.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Check.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Credits.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.History.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Remove.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\WindowsFormsApplication1.Advanced.resources
+C:\Users\alunoct\Desktop\Saulo e Matheus\Almoxarifado\Almoxarifado C#\Almoxarifado\obj\x86\Debug\Almoxarifado.csproj.GenerateResource.Cache

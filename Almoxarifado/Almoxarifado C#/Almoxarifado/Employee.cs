@@ -10,5 +10,19 @@ namespace WindowsFormsApplication1
         public int ID { get; set; }
         public string Name { get; set; }
         public string Sector { get; set; }
+        public string NameCapitalized
+        {
+            get
+            {
+                return Name.ToTitleCase();
+            }
+        }
+        public string SectorCapitalized
+        {
+            get
+            {
+                return Sector.ToTitleCase();
+            }
+        }
     }
 }

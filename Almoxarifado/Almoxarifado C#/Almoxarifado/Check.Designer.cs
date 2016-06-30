@@ -106,7 +106,7 @@
             this.Name = "Check";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Almoxarifado CPII ©";
+            this.Text = "Estoque";
             this.Load += new System.EventHandler(this.Check_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

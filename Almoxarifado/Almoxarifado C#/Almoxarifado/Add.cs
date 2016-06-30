@@ -28,7 +28,7 @@ namespace WindowsFormsApplication1
             }
             else
             {
-                Database.AddProduct(name, quantity);
+                Database.AddProduct(name.ToTitleCase(), quantity);
                 if (quantity > 1)
                 {
                     MessageBox.Show(quantity + " unidades de " + name.ToUpper() + " foram adicionadas ao estoque!");
@@ -45,7 +45,7 @@ namespace WindowsFormsApplication1
         {
             var products = Database.GetAllProducts();
             var txtAutoCompleteCollection = new AutoCompleteStringCollection();
-            txtAutoCompleteCollection.AddRange(products.Select(x => x.Name).ToArray());
+            txtAutoCompleteCollection.AddRange(products.Select(x => (x.Name.ToTitleCase())).ToArray());
             txt_AddProduto.AutoCompleteCustomSource = txtAutoCompleteCollection;
         }
 

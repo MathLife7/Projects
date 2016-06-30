@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almoxarifado", "Almoxarifado\Almoxarifado.csproj", "{E362E466-CAF8-4052-82C1-90208D20821B}"
 EndProject
 Global
@@ -12,7 +12,6 @@ Global
 		{E362E466-CAF8-4052-82C1-90208D20821B}.Debug|x86.ActiveCfg = Debug|x86
 		{E362E466-CAF8-4052-82C1-90208D20821B}.Debug|x86.Build.0 = Debug|x86
 		{E362E466-CAF8-4052-82C1-90208D20821B}.Release|x86.ActiveCfg = Release|x86
-		{E362E466-CAF8-4052-82C1-90208D20821B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
